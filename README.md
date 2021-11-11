@@ -1,7 +1,7 @@
 ### Hi there 👋<h2> I'm Samarth</h2>
 
 <p align="center">
-  <img src="https://github.com/samarthgoyal22/Samarth-/blob/main/banner.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/samarthgoyal22/samarthgoyal22/blob/main/Samarth_Goyal.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 <!--
@@ -59,9 +59,8 @@ Here are some ideas to get you started:
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Samarth87671449" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Samarth87671449" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/goyal-samarth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
-<a href="https://instagram.com/samarth.goyal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
-<!--<a href="https://www.youtube.com/c/khushboo goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>-->
+<a href="https://www.linkedin.com/in/goyal-samarth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="goyal-samarth" height="30" width="40" /></a>
+<a href="https://instagram.com/samarth.goyal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samarth.goyal_" height="30" width="40" /></a>
 </p>
 
 
